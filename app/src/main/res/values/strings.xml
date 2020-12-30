@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Application</string>
+    <string name="main_channel">Main channel</string>
+    <string name="simple_notification">Simple notification</string>
+    <string name="action_notification">Action notification</string>
+    <string name="reply_notification">Reply notification</string>
+    <string name="progress_notification">Progress notification</string>
+    <string name="open_app">Open app</string>
+    <string name="type_message">Type message</string>
+    <string name="download_in_progress">Download in progress</string>
+    <string name="download_complete">Download complete</string>
+    <string name="simple">Simple</string>
+    <string name="action">Action</string>
+    <string name="reply">Reply</string>
+    <string name="progress">Progress</string>
+    <string name="open_activity">Open activity</string>
+    <string name="open_map">Open map</string>
+    <string name="enter_coordinates">Enter coordinates</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="wrong_latitude">Wrong Latitude</string>
+    <string name="wrong_longitude">Wrong Longitude</string>
+    <string name="network_unavailable">Network Unavailable</string>
+    <string name="network_available">Network Available</string>
+    <string name="send_broadcast">Send broadcast</string>
 </resources>
